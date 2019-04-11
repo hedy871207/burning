@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://burning.github.io" resolutions="1x,2x" timestamp="1554981930468">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://burning.github.io" resolutions="1x,2x" timestamp="1554982215352">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4042801234" ref="index"/>
-    <file name="burning.css" crc="108432648" ref="burning"/>
+    <file name="burning.css" crc="103338498" ref="burning"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:burning"/>
@@ -38,5 +38,5 @@
     <file name="9472341464991.jpg" crc="481752626" ref="burning"/>
   </folder>
   <file name="index.html" crc="3793000961" seo="true" mt="1553697210805" redirect="false"/>
-  <file name="burning.html" crc="4264953716" seo="true" mt="1553700163263" redirect="true"/>
+  <file name="burning.html" crc="4155318664" seo="true" mt="1554982170562" redirect="true"/>
 </manifest>
